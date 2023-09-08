@@ -13,8 +13,8 @@
  </h4>
 
   
-<img src="https://images1.wionews.com/images/wion/900x1600/2023/7/3/1688378631742_FzsB5iagAEVzxn.jpg"\ width="300" height="400">
-<img src="https://drishtiias.com/images/uploads/1689585282_image3.png"\ width="300" height="400">
+<img src="https://images1.wionews.com/images/wion/900x1600/2023/7/3/1688378631742_FzsB5iagAEVzxn.jpg" width="300" height="400">
+<img src="https://drishtiias.com/images/uploads/1689585282_image3.png" width="300" height="400">
   <br>
 
   
